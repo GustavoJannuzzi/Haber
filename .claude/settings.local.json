@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -Command \"Start-Sleep -Seconds 3; python -m streamlit run app.py --server.port 8501\")",
+      "Bash(powershell:*)",
+      "Bash($null)",
+      "Bash(Start-Sleep -Seconds 2)",
+      "Bash(cat:*)",
+      "Bash(git checkout:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
