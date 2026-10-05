@@ -156,6 +156,3 @@ haber/
 ## 📝 Contribuição
 Contribuições são bem-vindas! Por favor, leia as diretrizes de contribuição antes de submeter pull requests.
 
-## 📄 Licença
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
-
